@@ -1,6 +1,4 @@
-# Project Title
-
-Budget Tracker
+# Budget Tracker
 
 # Description
 
